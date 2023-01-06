@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mvidonne
 - 👀 I’m interested in gender biais and surveillance capitalism
-- 🌱 I’m currently reading books and articles about machine learning and AI
-- 💞️ I’m looking to collaborate on ethical projects in a collaborative way.
+- 🌱 I’m currently reading books and articles about machine learning, AI and ethics
 - ✨ ✨✨
 
 
