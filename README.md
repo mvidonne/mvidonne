@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mvidonne
-- 👀 I’m interested in gender biais and surveillance capitalism
-- 🌱 I’m currently reading books and articles about machine learning, AI and ethics
-- I'm also mapping surveillance cameras in Geneva
+- 👀 cookies
+- https://karelkubicek.github.io/post/cookieblock 
+- https://github.com/dibollinger/CookieBlock  ETHZ
+
 - ✨ ✨✨
 - 
 
