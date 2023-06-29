@@ -6,7 +6,8 @@
 - ✨ ✨✨
 - 
 
-Data Science Fundamentals  -> https://github.com/JLDC/Data-Science-Fundamentals
+Projects on OpenData
+-https://github.com/opensource-construction/open-material-data
 
 <!---
 mvidonne/mvidonne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
