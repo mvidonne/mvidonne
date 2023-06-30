@@ -4,7 +4,7 @@
 - https://github.com/dibollinger/CookieBlock  ETHZ
 
 - ✨ ✨✨
-- 
+- Training https://interpretable-ml-class.github.io/
 
 Projects on OpenData
 -https://github.com/opensource-construction/open-material-data
