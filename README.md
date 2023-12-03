@@ -10,6 +10,8 @@
 Projects on OpenData
 -https://github.com/opensource-construction/open-material-data
 
+Open Terms Archive  --> Digital Services Terms and Conditions Database via @EU_Commission 
+https://code.europa.eu/p2b/contrib-versions
 
 <!---
 mvidonne/mvidonne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
