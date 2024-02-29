@@ -12,6 +12,7 @@ Projects on OpenData
 
 Open Terms Archive  --> Digital Services Terms and Conditions Database via @EU_Commission 
 https://code.europa.eu/p2b/contrib-versions
+--> GenAI https://github.com/OpenTermsArchive/GenAI-versions/commits/main.atom
 
 <!---
 mvidonne/mvidonne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
