@@ -3,12 +3,14 @@
 - https://karelkubicek.github.io/post/cookieblock 
 - https://github.com/dibollinger/CookieBlock  ETHZ
 - https://github.com/sarangof/Security_cameras_Geneva
+- https://github.com/bofenghuang/vigogne
 
 - ✨ ✨✨
 - Training https://interpretable-ml-class.github.io/
 
 Projects on OpenData
--https://github.com/opensource-construction/open-material-data
+- https://github.com/opensource-construction/open-material-data
+- https://github.com/datactivist
 
 Open Terms Archive  --> Digital Services Terms and Conditions Database via @EU_Commission 
 https://code.europa.eu/p2b/contrib-versions
