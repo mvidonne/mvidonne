@@ -12,10 +12,15 @@ Projects on OpenData
 - https://github.com/opensource-construction/open-material-data
 - https://github.com/datactivist
 
-Open Terms Archive  --> Digital Services Terms and Conditions Database via @EU_Commission 
+Project in cooperation with Open Terms Archive 
+- https://github.com/OpenTermsArchive/dating-declarations
+  
+Monitoring  Digital Services Terms and Conditions Database via @EU_Commission 
 https://code.europa.eu/p2b/contrib-versions
---> GenAI https://github.com/OpenTermsArchive/GenAI-versions/commits/main.atom
+and for GenAI https://github.com/OpenTermsArchive/GenAI-versions/commits/main.atom
 
+diverse
+https://github.com/liip/SwissGovernmentChatbots
 <!---
 mvidonne/mvidonne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
