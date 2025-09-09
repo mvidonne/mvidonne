@@ -32,6 +32,10 @@ https://github.com/epo/tip-training
 
 pandoc
 https://github.com/jgm/pandoc
+
+zotero
+- https://github.com/fflamerie/LibreABC2025_zotero_extensions
+- 
 <!---
 mvidonne/mvidonne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
