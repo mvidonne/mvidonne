@@ -33,8 +33,14 @@ https://github.com/epo/tip-training
 pandoc
 https://github.com/jgm/pandoc
 
+# [lien] (https://Libreabc.ch)- Genève- 9 sept 2025
 zotero
 - https://github.com/fflamerie/LibreABC2025_zotero_extensions
+
+tuto Annif
+- https://github.com/NatLibFi/Annif   pas d'hallucinations 
+- [lien] (https://doi.org/10.5281/zenodo.2578948)
+- 
 - 
 <!---
 mvidonne/mvidonne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
